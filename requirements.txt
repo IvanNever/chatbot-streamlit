@@ -1,0 +1,10 @@
+streamlit>=1.52.0
+google-genai
+langgraph
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv
+wikipedia
+numexpr
+pandas
